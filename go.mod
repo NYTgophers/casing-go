@@ -1,3 +1,3 @@
-module NYTgophers/casing-go
+module github.com/NYTgophers/casing-go
 
 go 1.17
